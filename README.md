@@ -1,1 +1,10 @@
 # website-azure
+Este site tem como objetivo apresentar estatísticas e informações detalhadas sobre os jogadores e times participantes do Campeonato Brasileiro de 2025. A plataforma é dividida em três páginas principais, cada uma com funcionalidades específicas para facilitar o acesso aos dados e a navegação do usuário.
+
+Na primeira página, o usuário encontrará a tabela atualizada do Brasileirão 2025, exibindo a classificação completa com pontos, vitórias, empates, derrotas e saldo de gols. Também estará disponível o calendário de jogos, com as rodadas já realizadas e as que ainda vão acontecer, mostrando datas, horários e confrontos. Além disso, haverá uma barra de pesquisa que permitirá buscar diretamente por jogadores ou times, facilitando o acesso a informações específicas.
+
+A segunda página será focada na liderança de estatísticas individuais. Nela, serão destacados os jogadores com os melhores desempenhos do campeonato em diferentes categorias, como: quem fez mais gols, quem deu mais assistências, quem realizou mais desarmes, quem recebeu mais cartões amarelos e vermelhos, além dos melhores goleiros do torneio (considerando critérios como número de defesas e jogos sem sofrer gols). Assim como na primeira página, também haverá um filtro de busca para selecionar um jogador ou time específico e visualizar seus dados detalhados.
+
+Na terceira e última página, o usuário terá acesso ao painel de confronto direto, onde poderá escolher dois times e visualizar os últimos cinco jogos entre eles, com informações como placar, data e local das partidas. Essa página também contará com o filtro de busca, permitindo pesquisar rapidamente por qualquer jogador ou equipe e acessar seus dados, estatísticas e confrontos recentes.
+
+Em todas as páginas do site, haverá um sistema de pesquisa inteligente, que possibilita buscar por jogadores ou times e visualizar suas estatísticas, histórico de jogos e desempenho de forma prática e organizada. O objetivo do projeto é oferecer uma visão clara, interativa e acessível de tudo o que acontece no Brasileirão 2025, tanto para fãs quanto para analistas e curiosos.
